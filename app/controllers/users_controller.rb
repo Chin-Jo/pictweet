@@ -5,5 +5,3 @@ class UsersController < ApplicationController
     @tweets = user.tweets
   end
 end
-
-end
